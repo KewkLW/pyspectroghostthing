@@ -1,0 +1,8 @@
+freetype_py==2.4.0
+librosa==0.10.2.post1
+matplotlib==3.9.2
+moderngl==5.10.0
+numpy==2.0.0
+pyaudio==0.2.13
+PyQt5==5.15.9
+pyrr==0.10.3
